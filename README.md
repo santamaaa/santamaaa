@@ -14,6 +14,7 @@
   + Interested in web development
   <br>
   + Database Design and Programming with SQL - Oracle Academy Certification
+  <br>
   + Database Programming with PL/SQL - Oracle Academy Certification
 </p>
 
