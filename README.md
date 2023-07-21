@@ -8,7 +8,14 @@
 
 ###
 
-<p align="left">+ A student of Information System with GIS concentration<br>+ Interested in web development</p>
+<p align="left">
+  + A student of Information System with GIS concentration
+  <br>
+  + Interested in web development
+  <br>
+  + Database Design and Programming with SQL - Oracle Academy Certification
+  + Database Programming with PL/SQL - Oracle Academy Certification
+</p>
 
 ###
 
