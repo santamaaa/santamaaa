@@ -22,7 +22,7 @@
 
 <span>
   🔗
-  <a href="https://santamaa.github.io/">santamaa.github.io</a>
+  <a href="https://santamaa-profile-page-kype66ypq-santamaas-projects.vercel.app/">My Profile Page</a>
 </span>
 
 <br clear="both">
