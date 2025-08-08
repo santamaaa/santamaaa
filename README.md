@@ -3,7 +3,7 @@
 A web dev & GIS enthusiast from Indonesia. Focusing on practical technology-based solutions.
 
 <span>
-  <a href="https://santamaa-profile-page-kype66ypq-santamaas-projects.vercel.app/">My Profile Page</a>
+  <a href="https://santamaaa.github.io/profile-page">My Profile Page</a>
 </span>
 
 ##
