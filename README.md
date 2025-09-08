@@ -16,6 +16,8 @@ Web developer - Frontend - Backend - Fullstack
 <br>
 [![My Skills](https://skillicons.dev/icons?i=py,flask,fastapi)](https://skillicons.dev)
 <br>
+[![My Skills](https://skillicons.dev/icons?i=php,laravel)](https://skillicons.dev)
+<br>
 [![My Skills](https://skillicons.dev/icons?i=postgres,mongodb)](https://skillicons.dev)
 <br>
 [![My Skills](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
