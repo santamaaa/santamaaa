@@ -3,7 +3,7 @@
 Web developer - Frontend - Backend - Fullstack
 
 <span>
-  <a href="https://santamaaa.github.io/dev-studio">My Profile Page</a>
+  <a href="https://santamaaa.github.io/profile-page">My Profile Page</a>
 </span>
 
 ##
